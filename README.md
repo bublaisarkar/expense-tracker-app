@@ -5,13 +5,6 @@
 A cross-platform personal finance tracker built with React Native and Expo.
 Track expenses, visualize spending with interactive charts, and keep your data
 secure with dual-factor biometric + PIN authentication.
-
-<p align="center">
-  <img src="docs/screenshots/home.png" width="220" alt="Home" />
-  <img src="docs/screenshots/statistics.png" width="220" alt="Statistics" />
-  <img src="docs/screenshots/lock.png" width="220" alt="PIN Lock" />
-</p>
-
 ---
 
 ## ✨ Features
@@ -244,10 +237,6 @@ adb install -r android/app/build/outputs/apk/release/app-release.apk
 ```
 
 ---
-
-## 📥 Download
-
-**[Download the latest APK](https://github.com/YOUR_USERNAME/expense-manager/releases/latest)**
 
 Install steps:
 1. Download the APK on your Android device
